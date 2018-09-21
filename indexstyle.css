@@ -1,0 +1,29 @@
+
+li{
+  color: #black
+}
+body{
+  background-color: #75A9E3
+}
+li{
+  font-size: 20px;
+}
+a{
+  font-family: 'Lobster', cursive;
+}
+li{
+  font-family: 'Notable', sans-serif;
+}
+a{
+  font-size: 20px;
+}
+a{
+  color: #D7582B
+}
+/* mouse over link */
+a:hover {
+    color: lightblue;
+}
+a{
+  text-decoration: none;
+}
