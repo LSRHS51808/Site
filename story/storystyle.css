@@ -1,0 +1,35 @@
+p{
+  font-size: 30px;
+}
+html{
+  background-color: gray;
+}
+p{
+  font-family: 'Righteous', cursive;
+}
+img{
+size: 30px;
+}
+table, th, td {
+    border: 10px ridge #D7582B;
+    border-collapse: collapse;
+  }
+table{
+  text-align: center;
+}
+table{
+  margin-left:auto; margin-right:auto;
+ }
+a{
+  font-family: 'Righteous', cursive;
+}
+/* mouse over link */
+a:hover {
+    color: salmon;
+}
+li{
+list-style-type: circle;
+}
+a{
+  text-decoration: none;
+}
